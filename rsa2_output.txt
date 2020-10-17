@@ -1,0 +1,11 @@
+Input prime integer: p = 17
+
+Input second prime integer (a different one): q = 19
+n =  323
+φ = 288
+e = 287
+d = 287
+Encrypted message:  1661633291
+Encoded base64:  b'MTY2'b'MTY='b'Mw=='b'Mw=='b'Mjkx'
+Decoded base64:  b'166'b'16'b'3'b'3'b'291'
+Decrypted message:  Hello
